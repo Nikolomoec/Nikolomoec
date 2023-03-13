@@ -57,5 +57,7 @@
 
 ## Contacts
 Telegram - [@Nikita_Kolomoec](https://Nikita_Kolomoec.t.me/)\
-Mail - [nikolomoec@gmail.com](mailto:nikolomoec@gmail.com)
+Mail - [nikolomoec@gmail.com](mailto:nikolomoec@gmail.com)\
+Twitter - [@nikolomoec](https://twitter.com/nikolomoec)
+
 
