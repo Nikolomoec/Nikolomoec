@@ -8,7 +8,6 @@
 - SwiftUIX, Introspect, TDLibKit, Lottie, VLCKit
 - SOLID, DRY, KISS
 - Firebase, CoreData, UserDefaults
-- Foundation, MediaPlayer, AVKit, MapKit, PhotosUI, CoreLocation, UserNotifications 
 - URLSession, FileManager, JSON, async/await, GCD
 - XCode, SPM, CocoaPods
 - Git, GitHub, Fork, SourceTree
