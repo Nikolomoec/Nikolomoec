@@ -3,16 +3,13 @@
 **Nikita Kolomoiets**, 16 y. o., **Learning** IOS Development.
 
 ## Skills
-- Swift, SwiftLint, SwiftFormat
+- Swift
 - SwiftUI, Combine
-- SwiftUIX, Introspect, TDLibKit, Lottie, VLCKit
-- SOLID, DRY, KISS
 - Firebase, CoreData, UserDefaults
-- URLSession, FileManager, JSON, async/await, GCD
-- XCode, SPM, CocoaPods
-- Git, GitHub, Fork, SourceTree
+- XCode, CocoaPods
+- Git, GitHub
 - Notion
-- Figma, Sketch
+- Figma
 - English Intermediate/Advanced B2-C1
 
 ### Languages and Tools:
