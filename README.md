@@ -6,6 +6,7 @@
 - Swift
 - SwiftUI, Combine
 - Firebase, CoreData, UserDefaults
+- StoreKit, Almofire, SwiftyJSON
 - XCode, CocoaPods
 - Git, GitHub
 - Notion
