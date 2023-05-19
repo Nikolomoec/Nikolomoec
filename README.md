@@ -4,7 +4,7 @@
 
 ## Skills
 - Swift
-- SwiftUI, Combine, CoreML
+- SwiftUI, CoreML, MapKit
 - Firebase, CoreData, UserDefaults
 - StoreKit, Almofire, SwiftyJSON
 - XCode, CocoaPods
