@@ -4,9 +4,8 @@
 
 ## Skills
 - Swift
-- SwiftUI, CoreML, MapKit
+- SwiftUI, CoreML, MapKit, CoreImage
 - Firebase, CoreData, UserDefaults
-- StoreKit, Almofire, SwiftyJSON
 - XCode, CocoaPods
 - Git, GitHub
 - Notion
