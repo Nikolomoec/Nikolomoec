@@ -11,9 +11,9 @@
 - Figma
 - English Advanced C1-C2
 
-- Made 2 apps from scratch 
-- [Monday Calendar]([https://Nikita_Kolomoec.t.me/](https://apps.apple.com/us/app/monday-event-calendar/id6461865663))\
-- [Steakify]([https://Nikita_Kolomoec.t.me/](https://apps.apple.com/us/app/streakify-streak-tracker/id6532579712))\
+### Made 2 apps from scratch 
+[Monday Calendar]([https://Nikita_Kolomoec.t.me/](https://apps.apple.com/us/app/monday-event-calendar/id6461865663))\
+[Steakify]([https://Nikita_Kolomoec.t.me/](https://apps.apple.com/us/app/streakify-streak-tracker/id6532579712))
 
 ### Languages and Tools:
 
