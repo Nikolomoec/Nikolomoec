@@ -1,16 +1,19 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-**Nikita Kolomoiets**, 17 y. o., **Learning** IOS Development.
+**Nikita Kolomoiets**, building iOS apps.
 
 ## Skills
 - Swift
-- SwiftUI, CoreML, MapKit, CoreImage
+- SwiftUI, MapKit, CoreImage, WidgetKit, StoreKit, Can learn any framework if needed
 - Firebase, SwiftData, UserDefaults
-- XCode, CocoaPods
+- XCode
 - Git, GitHub
-- Notion
 - Figma
-- English Intermediate/Advanced B2-C1
+- English Advanced C1-C2
+
+- Made 2 apps from scratch 
+- [Monday Calendar]([https://Nikita_Kolomoec.t.me/](https://apps.apple.com/us/app/monday-event-calendar/id6461865663))\
+- [Steakify]([https://Nikita_Kolomoec.t.me/](https://apps.apple.com/us/app/streakify-streak-tracker/id6532579712))\
 
 ### Languages and Tools:
 
